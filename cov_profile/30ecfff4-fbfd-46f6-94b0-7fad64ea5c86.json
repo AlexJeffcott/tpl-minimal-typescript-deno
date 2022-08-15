@@ -1,0 +1,11 @@
+{
+  "scriptId": "78",
+  "url": "file:///home/elisa/Documents/ajt/tpl-minimal-typescript-deno/src/deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 492, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

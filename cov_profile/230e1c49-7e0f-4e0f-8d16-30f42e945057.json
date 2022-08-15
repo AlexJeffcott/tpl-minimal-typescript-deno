@@ -1,0 +1,19 @@
+{
+  "scriptId": "77",
+  "url": "file:///home/elisa/Documents/ajt/tpl-minimal-typescript-deno/src/leet003/c/index.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 3981, "count": 1 },
+        { "startOffset": 688, "endOffset": 854, "count": 33 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 759, "endOffset": 850, "count": 33 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

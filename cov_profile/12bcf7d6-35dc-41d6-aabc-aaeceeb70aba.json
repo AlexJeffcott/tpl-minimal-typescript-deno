@@ -1,0 +1,36 @@
+{
+  "scriptId": "79",
+  "url": "file:///home/elisa/Documents/ajt/tpl-minimal-typescript-deno/src/leet003/a/index.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4124, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "romanToInteger",
+      "ranges": [{ "startOffset": 15, "endOffset": 1245, "count": 33 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "replacer",
+      "ranges": [
+        { "startOffset": 67, "endOffset": 1127, "count": 75 },
+        { "startOffset": 135, "endOffset": 196, "count": 2 },
+        { "startOffset": 209, "endOffset": 270, "count": 2 },
+        { "startOffset": 283, "endOffset": 345, "count": 1 },
+        { "startOffset": 358, "endOffset": 420, "count": 3 },
+        { "startOffset": 433, "endOffset": 496, "count": 1 },
+        { "startOffset": 509, "endOffset": 572, "count": 3 },
+        { "startOffset": 585, "endOffset": 645, "count": 15 },
+        { "startOffset": 658, "endOffset": 718, "count": 5 },
+        { "startOffset": 731, "endOffset": 792, "count": 12 },
+        { "startOffset": 805, "endOffset": 866, "count": 5 },
+        { "startOffset": 879, "endOffset": 941, "count": 12 },
+        { "startOffset": 954, "endOffset": 1016, "count": 4 },
+        { "startOffset": 1029, "endOffset": 1092, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

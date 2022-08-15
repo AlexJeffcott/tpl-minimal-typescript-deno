@@ -1,0 +1,22 @@
+{
+  "scriptId": "79",
+  "url": "file:///home/elisa/Documents/ajt/tpl-minimal-typescript-deno/src/leet001/c/index.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1887, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "default",
+      "ranges": [
+        { "startOffset": 15, "endOffset": 392, "count": 4 },
+        { "startOffset": 154, "endOffset": 352, "count": 7 },
+        { "startOffset": 244, "endOffset": 346, "count": 9 },
+        { "startOffset": 312, "endOffset": 336, "count": 3 },
+        { "startOffset": 352, "endOffset": 391, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
