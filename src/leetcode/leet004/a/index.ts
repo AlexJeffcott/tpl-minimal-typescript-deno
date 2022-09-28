@@ -1,6 +1,7 @@
 export default function longestCommonPrefix(strs: string[]): string {
 	const sortedStrs = strs.sort((a, b) => b.length - a.length);
 	let candidate = sortedStrs[sortedStrs.length - 1];
+	
 	let i = sortedStrs.length;
 	let x = candidate.length - 1;
 	for (i; i--;) {
@@ -11,6 +12,7 @@ export default function longestCommonPrefix(strs: string[]): string {
 			}
 			--x;
 		}
+		x = candidate.length - 1;
 	}
 	return candidate;
 }

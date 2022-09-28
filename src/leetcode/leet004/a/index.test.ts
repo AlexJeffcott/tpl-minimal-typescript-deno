@@ -8,7 +8,7 @@ const cases: Array<[string[], string]> = [
 ];
 
 for (const [arg, expected] of cases) {
-	Deno.test(`The common prefix of ${arg} is ${expected}`, () => {
+	Deno.test(`The common prefix of ${arg} is "${expected}"`, () => {
 		const result = fnUnderTest(arg);
 		assert(result === expected);
 	});
